@@ -1,0 +1,15 @@
+C:\Users\нурик\Desktop\HomeworkN8\Three-Dimensional_Array\bin\Debug\net6.0\Three-Dimensional_Array.exe
+C:\Users\нурик\Desktop\HomeworkN8\Three-Dimensional_Array\bin\Debug\net6.0\Three-Dimensional_Array.deps.json
+C:\Users\нурик\Desktop\HomeworkN8\Three-Dimensional_Array\bin\Debug\net6.0\Three-Dimensional_Array.runtimeconfig.json
+C:\Users\нурик\Desktop\HomeworkN8\Three-Dimensional_Array\bin\Debug\net6.0\Three-Dimensional_Array.dll
+C:\Users\нурик\Desktop\HomeworkN8\Three-Dimensional_Array\bin\Debug\net6.0\Three-Dimensional_Array.pdb
+C:\Users\нурик\Desktop\HomeworkN8\Three-Dimensional_Array\obj\Debug\net6.0\Three-Dimensional_Array.csproj.AssemblyReference.cache
+C:\Users\нурик\Desktop\HomeworkN8\Three-Dimensional_Array\obj\Debug\net6.0\Three-Dimensional_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\нурик\Desktop\HomeworkN8\Three-Dimensional_Array\obj\Debug\net6.0\Three-Dimensional_Array.AssemblyInfoInputs.cache
+C:\Users\нурик\Desktop\HomeworkN8\Three-Dimensional_Array\obj\Debug\net6.0\Three-Dimensional_Array.AssemblyInfo.cs
+C:\Users\нурик\Desktop\HomeworkN8\Three-Dimensional_Array\obj\Debug\net6.0\Three-Dimensional_Array.csproj.CoreCompileInputs.cache
+C:\Users\нурик\Desktop\HomeworkN8\Three-Dimensional_Array\obj\Debug\net6.0\Three-Dimensional_Array.dll
+C:\Users\нурик\Desktop\HomeworkN8\Three-Dimensional_Array\obj\Debug\net6.0\refint\Three-Dimensional_Array.dll
+C:\Users\нурик\Desktop\HomeworkN8\Three-Dimensional_Array\obj\Debug\net6.0\Three-Dimensional_Array.pdb
+C:\Users\нурик\Desktop\HomeworkN8\Three-Dimensional_Array\obj\Debug\net6.0\Three-Dimensional_Array.genruntimeconfig.cache
+C:\Users\нурик\Desktop\HomeworkN8\Three-Dimensional_Array\obj\Debug\net6.0\ref\Three-Dimensional_Array.dll
