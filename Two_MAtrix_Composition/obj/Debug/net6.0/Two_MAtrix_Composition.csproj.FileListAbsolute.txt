@@ -1,0 +1,15 @@
+C:\Users\нурик\Desktop\HomeworkN8\Two_MAtrix_Composition\obj\Debug\net6.0\Two_MAtrix_Composition.csproj.AssemblyReference.cache
+C:\Users\нурик\Desktop\HomeworkN8\Two_MAtrix_Composition\obj\Debug\net6.0\Two_MAtrix_Composition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\нурик\Desktop\HomeworkN8\Two_MAtrix_Composition\obj\Debug\net6.0\Two_MAtrix_Composition.AssemblyInfoInputs.cache
+C:\Users\нурик\Desktop\HomeworkN8\Two_MAtrix_Composition\obj\Debug\net6.0\Two_MAtrix_Composition.AssemblyInfo.cs
+C:\Users\нурик\Desktop\HomeworkN8\Two_MAtrix_Composition\obj\Debug\net6.0\Two_MAtrix_Composition.csproj.CoreCompileInputs.cache
+C:\Users\нурик\Desktop\HomeworkN8\Two_MAtrix_Composition\bin\Debug\net6.0\Two_MAtrix_Composition.exe
+C:\Users\нурик\Desktop\HomeworkN8\Two_MAtrix_Composition\bin\Debug\net6.0\Two_MAtrix_Composition.deps.json
+C:\Users\нурик\Desktop\HomeworkN8\Two_MAtrix_Composition\bin\Debug\net6.0\Two_MAtrix_Composition.runtimeconfig.json
+C:\Users\нурик\Desktop\HomeworkN8\Two_MAtrix_Composition\bin\Debug\net6.0\Two_MAtrix_Composition.dll
+C:\Users\нурик\Desktop\HomeworkN8\Two_MAtrix_Composition\bin\Debug\net6.0\Two_MAtrix_Composition.pdb
+C:\Users\нурик\Desktop\HomeworkN8\Two_MAtrix_Composition\obj\Debug\net6.0\Two_MAtrix_Composition.dll
+C:\Users\нурик\Desktop\HomeworkN8\Two_MAtrix_Composition\obj\Debug\net6.0\refint\Two_MAtrix_Composition.dll
+C:\Users\нурик\Desktop\HomeworkN8\Two_MAtrix_Composition\obj\Debug\net6.0\Two_MAtrix_Composition.pdb
+C:\Users\нурик\Desktop\HomeworkN8\Two_MAtrix_Composition\obj\Debug\net6.0\Two_MAtrix_Composition.genruntimeconfig.cache
+C:\Users\нурик\Desktop\HomeworkN8\Two_MAtrix_Composition\obj\Debug\net6.0\ref\Two_MAtrix_Composition.dll
