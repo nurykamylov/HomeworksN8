@@ -1,0 +1,15 @@
+C:\Users\нурик\Desktop\HomeworkN8\MIn_Sum_of_rows\obj\Debug\net6.0\MIn_Sum_of_rows.csproj.AssemblyReference.cache
+C:\Users\нурик\Desktop\HomeworkN8\MIn_Sum_of_rows\obj\Debug\net6.0\MIn_Sum_of_rows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\нурик\Desktop\HomeworkN8\MIn_Sum_of_rows\obj\Debug\net6.0\MIn_Sum_of_rows.AssemblyInfoInputs.cache
+C:\Users\нурик\Desktop\HomeworkN8\MIn_Sum_of_rows\obj\Debug\net6.0\MIn_Sum_of_rows.AssemblyInfo.cs
+C:\Users\нурик\Desktop\HomeworkN8\MIn_Sum_of_rows\obj\Debug\net6.0\MIn_Sum_of_rows.csproj.CoreCompileInputs.cache
+C:\Users\нурик\Desktop\HomeworkN8\MIn_Sum_of_rows\bin\Debug\net6.0\MIn_Sum_of_rows.exe
+C:\Users\нурик\Desktop\HomeworkN8\MIn_Sum_of_rows\bin\Debug\net6.0\MIn_Sum_of_rows.deps.json
+C:\Users\нурик\Desktop\HomeworkN8\MIn_Sum_of_rows\bin\Debug\net6.0\MIn_Sum_of_rows.runtimeconfig.json
+C:\Users\нурик\Desktop\HomeworkN8\MIn_Sum_of_rows\bin\Debug\net6.0\MIn_Sum_of_rows.dll
+C:\Users\нурик\Desktop\HomeworkN8\MIn_Sum_of_rows\bin\Debug\net6.0\MIn_Sum_of_rows.pdb
+C:\Users\нурик\Desktop\HomeworkN8\MIn_Sum_of_rows\obj\Debug\net6.0\MIn_Sum_of_rows.dll
+C:\Users\нурик\Desktop\HomeworkN8\MIn_Sum_of_rows\obj\Debug\net6.0\refint\MIn_Sum_of_rows.dll
+C:\Users\нурик\Desktop\HomeworkN8\MIn_Sum_of_rows\obj\Debug\net6.0\MIn_Sum_of_rows.pdb
+C:\Users\нурик\Desktop\HomeworkN8\MIn_Sum_of_rows\obj\Debug\net6.0\MIn_Sum_of_rows.genruntimeconfig.cache
+C:\Users\нурик\Desktop\HomeworkN8\MIn_Sum_of_rows\obj\Debug\net6.0\ref\MIn_Sum_of_rows.dll
