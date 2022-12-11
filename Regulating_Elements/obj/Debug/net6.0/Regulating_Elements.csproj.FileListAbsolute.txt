@@ -1,0 +1,15 @@
+C:\Users\нурик\Desktop\HomeworkN8\Regulating_Elements\bin\Debug\net6.0\Regulating_Elements.exe
+C:\Users\нурик\Desktop\HomeworkN8\Regulating_Elements\bin\Debug\net6.0\Regulating_Elements.deps.json
+C:\Users\нурик\Desktop\HomeworkN8\Regulating_Elements\bin\Debug\net6.0\Regulating_Elements.runtimeconfig.json
+C:\Users\нурик\Desktop\HomeworkN8\Regulating_Elements\bin\Debug\net6.0\Regulating_Elements.dll
+C:\Users\нурик\Desktop\HomeworkN8\Regulating_Elements\bin\Debug\net6.0\Regulating_Elements.pdb
+C:\Users\нурик\Desktop\HomeworkN8\Regulating_Elements\obj\Debug\net6.0\Regulating_Elements.csproj.AssemblyReference.cache
+C:\Users\нурик\Desktop\HomeworkN8\Regulating_Elements\obj\Debug\net6.0\Regulating_Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\нурик\Desktop\HomeworkN8\Regulating_Elements\obj\Debug\net6.0\Regulating_Elements.AssemblyInfoInputs.cache
+C:\Users\нурик\Desktop\HomeworkN8\Regulating_Elements\obj\Debug\net6.0\Regulating_Elements.AssemblyInfo.cs
+C:\Users\нурик\Desktop\HomeworkN8\Regulating_Elements\obj\Debug\net6.0\Regulating_Elements.csproj.CoreCompileInputs.cache
+C:\Users\нурик\Desktop\HomeworkN8\Regulating_Elements\obj\Debug\net6.0\Regulating_Elements.dll
+C:\Users\нурик\Desktop\HomeworkN8\Regulating_Elements\obj\Debug\net6.0\refint\Regulating_Elements.dll
+C:\Users\нурик\Desktop\HomeworkN8\Regulating_Elements\obj\Debug\net6.0\Regulating_Elements.pdb
+C:\Users\нурик\Desktop\HomeworkN8\Regulating_Elements\obj\Debug\net6.0\Regulating_Elements.genruntimeconfig.cache
+C:\Users\нурик\Desktop\HomeworkN8\Regulating_Elements\obj\Debug\net6.0\ref\Regulating_Elements.dll
